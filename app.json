@@ -1,0 +1,6 @@
+{
+  "name": "absolute gg",
+  "description": "A barebones Python app, which can easily be deployed to Heroku.",
+  "repository": "https://github.com/theydonthaveit/absolute-gg",
+  "keywords": ["python" ]
+}
